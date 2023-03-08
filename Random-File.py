@@ -1,4 +1,3 @@
-@@ -1,45 +1,45 @@
 #SCRIPT BY TH3_L3G3ND_SHAKIL
 #FB ID SHAKIL
 #https://www.facebook.com/mdshakilislam.4321
